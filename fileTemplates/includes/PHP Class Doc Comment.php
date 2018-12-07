@@ -1,0 +1,5 @@
+/**
+ * Class ${NAME}
+ * 
+ * @version X
+ */

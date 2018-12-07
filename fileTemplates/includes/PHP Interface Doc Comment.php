@@ -1,0 +1,5 @@
+/**
+ * Interface ${NAME}
+ *
+ * @version X
+ */

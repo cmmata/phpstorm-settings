@@ -1,0 +1,26 @@
+<application>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="10.13.0" last-modified="1540885664000" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <Gitlab shared="false" url="https://gitlab.com">
+      <commitMessageFormat>{summary} (Fixes {id})</commitMessageFormat>
+      <option name="currentProject" />
+      <password>dff3df9cdfe4dfc9df87dfeedf9fdfdbdf9edfe6dfefdfd9dff9dfc7dfd8df93dfd0dfe6dff2dfe2</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Gitlab>
+  </component>
+</application>

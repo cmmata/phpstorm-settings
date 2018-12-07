@@ -1,0 +1,20 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="app/Resources/assets/*/vendor/*" />
+        <option value="node_modules/*" />
+      </list>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://gears:9000" />
+          <token>dfcfdfcbdf9bdfcedf9cdfcbdf98dfccdf9adf9cdf9cdf99dfccdfcbdfcfdf9edf9edf9fdfc9df9edf92dfc8df9ddf9bdf9adf9fdf9ddf92dfc8dfcbdf92df99df9bdfc9df98dfcfdfcbdfcedf9ddfcf</token>
+          <option name="name" value="Gears" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

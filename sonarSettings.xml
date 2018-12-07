@@ -1,0 +1,24 @@
+<application>
+  <component name="localAnalysisScripts">
+    <option name="beans">
+      <list>
+        <LocalAnalysisScript>
+          <option name="name" value="sonarscanner" />
+          <option name="pathToSonarReport" value="$USER_HOME$/projects/devtools/www/sistemas/var/build/sonar-report.json" />
+          <option name="sourceCode" value="$USER_HOME$/projects/devtools/bin/sonar-scanner" />
+        </LocalAnalysisScript>
+      </list>
+    </option>
+  </component>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="http://gears:9000" />
+          <option name="name" value="SonarQube Gears" />
+          <option name="user" value="admin" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>

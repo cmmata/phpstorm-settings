@@ -1,0 +1,19 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://pmd.sf.net/ruleset_xml_schema.xsd" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
+    <resource url="http://schema.phpbu.de/5.0/phpbu.xsd" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/6f6199e_phpbu.xsd" />
+    <resource url="http://schema.phpunit.de/6.0/phpunit.xsd" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/231342ff_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/6.5/phpunit.xsd" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/cba26384_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/7.0/phpunit.xsd" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/7ceead40_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/7.1/phpunit.xsd" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/6b71b3c1_phpunit.xsd" />
+    <resource url="http://schemas.xmlsoap.org/soap/encoding/" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/cad5bd9d_.xml" />
+    <resource url="http://schemas.xmlsoap.org/soap/envelope/" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/a74f2ac0_.xml" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/42abd8c6_.xml" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/http/" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/9ecabba1_.xml" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/mime/" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/9f0c1575_.xml" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/soap/" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/9f6330fe_.xml" />
+    <resource url="http://xml.phpdox.net/config" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/ae7505c4_config.xml" />
+    <resource url="https://schema.phpunit.de/5.7/phpunit.xsd" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/3af2d128_phpunit.xsd" />
+    <ignored-resource url="https://ws.aicrag.com" />
+  </component>
+</application>
